@@ -9,7 +9,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art with soft watercolor or colored-pencil fills on the character. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean, thoughtful, lightly absurd product-sketch feeling. No gradients, no heavy shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no mascot poster, no childish illustration, no realistic UI.
 
 Recurring IP character required:
-Use the supplied character reference image only for identity and appearance consistency. Draw one recurring chibi young male creator, around 3.5-4 heads tall: warm skin, tousled short black hair with distinct spiky strands, thick black rectangular glasses with clear lenses, dark expressive eyes, a light-blue crew-neck T-shirt with dark-blue trim and a tiny white chest symbol, blue drawstring tropical floral shorts, black-and-orange flip-flops, and a black round watch on his left wrist. Preserve these traits in every pose. His personality is relaxed, thoughtful, realistic, independent, and quietly humorous. He must perform the core conceptual action, not decorate the scene. Do not copy the reference sheet layout, labels, arrows, numbering, or exact poses.
+Use the supplied reference image only for identity and appearance consistency. The recurring character is named 小代 (Xiaodai). Draw one chibi young male creator, around 3.5-4 heads tall: warm skin, tousled short black hair with distinct spiky strands, thick black rectangular glasses with clear lenses, dark expressive eyes, a light-blue crew-neck T-shirt with dark-blue trim and a tiny white chest symbol, blue drawstring tropical floral shorts, black-and-orange flip-flops, and a black round watch on his left wrist. Preserve these traits in every pose. His personality is relaxed, thoughtful, realistic, independent, and quietly humorous. 小代 must perform the core conceptual action, not decorate the scene. Do not copy the reference sheet layout, labels, arrows, numbering, or exact poses.
 
 Theme:
 {正文配图主题}
@@ -21,7 +21,7 @@ Core idea:
 {这张图要表达的核心意思}
 
 Composition:
-{具体画面：个人卡通角色在哪里、正在做什么、主要物件是什么、信息如何流动}
+{具体画面：小代在哪里、正在做什么、主要物件是什么、信息如何流动}
 
 Suggested elements:
 {元素1} / {元素2} / {元素3} / {元素4}
@@ -47,5 +47,5 @@ Edit the provided image. Remove only the handwritten title "{要删除的文字}
 增强怪诞感：
 
 ```text
-Regenerate this illustration with the same core meaning and simple layout, but make the recurring personal avatar more central to the conceptual action. Preserve his short tousled black hair, thick black rectangular glasses, light-blue T-shirt, blue tropical shorts, flip-flops, and black wristwatch. He should be doing the work that explains the idea, not standing beside the diagram. Keep it clean, sparse, hand-drawn, thoughtful, and lightly humorous.
+Regenerate this illustration with the same core meaning and simple layout, but make 小代 more central to the conceptual action. Preserve his short tousled black hair, thick black rectangular glasses, light-blue T-shirt, blue tropical shorts, flip-flops, and black wristwatch. 小代 should be doing the work that explains the idea, not standing beside the diagram. Keep it clean, sparse, hand-drawn, thoughtful, and lightly humorous.
 ```
